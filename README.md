@@ -4,5 +4,5 @@ Duct tape utility that somewhat works - tries to parse photo metadata JSON file 
 
 Includes some workarounds for Google's sh***y EXIF implementation.
 
-# Depends
+## Depends
 piexif
